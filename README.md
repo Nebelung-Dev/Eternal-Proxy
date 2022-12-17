@@ -10,6 +10,8 @@ Proxy site by xono#9494
 
 4. Open `localhost:8080`
 
-Or deploy:
+**Or deploy:**
+
 Replit: https://repl.it/github/Nebelung-Dev/Eternal-Proxy
+
 Railway: https://railway.app/new/template?template=https://github.com/Nebelung-Dev/Eternal-Proxy
