@@ -1,0 +1,29 @@
+{
+  "name": "eternal-proxy",
+  "version": "1.0.0",
+  "description": "Proxy site by xono#9494",
+  "type": "module",
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebelung-Dev/Eternal-Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nebelung-Dev/Eternal-Proxy/issues"
+  },
+  "homepage": "https://github.com/Nebelung-Dev/Eternal-Proxy#readme",
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.5",
+    "@tomphttp/bare-server-node": "^1.2.2",
+    "express": "^4.18.2"
+  }
+}
