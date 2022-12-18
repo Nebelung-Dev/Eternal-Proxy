@@ -1,5 +1,5 @@
 # Eternal Proxy
-Proxy site by xono#9494. Just added a backend and got UV working.
+Proxy site by quinted#0822. Just added a backend and got UV working.
 
 ## Running
 1. Open your project in the terminal
